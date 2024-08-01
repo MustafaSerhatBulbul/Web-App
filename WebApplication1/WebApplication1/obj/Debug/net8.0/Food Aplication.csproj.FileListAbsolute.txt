@@ -1,0 +1,30 @@
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\Food Aplication.staticwebassets.runtime.json
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\Food Aplication.exe
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\Food Aplication.deps.json
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\Food Aplication.runtimeconfig.json
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\Food Aplication.dll
+D:\asp.netcore\WebApplication1\WebApplication1\bin\Debug\net8.0\Food Aplication.pdb
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.AssemblyInfoInputs.cache
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.AssemblyInfo.cs
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.csproj.CoreCompileInputs.cache
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.RazorAssemblyInfo.cache
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.RazorAssemblyInfo.cs
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Food Aplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Food Aplication.props
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Food Aplication.props
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Food Aplication.props
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Food Aplication.styles.css
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\Food Aplication.bundle.scp.css
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.dll
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\Food Aplication.dll
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.pdb
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\Food Aplication.genruntimeconfig.cache
+D:\asp.netcore\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\Food Aplication.dll
